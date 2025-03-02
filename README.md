@@ -23,5 +23,37 @@ This project presents a game launcher designed to bring a collection of classic 
 
 ## Screenshots 
 
+### Menu
+![Menu](Screenshots/menu.png?raw=true)
 
+### Sudoku
 
+![sudoku](Screenshots/Soduku.png?raw=true)
+
+![sudoku](Screenshots/Soduku_win.png?raw=true)
+
+### Flappy Plane
+
+![Flappy Plane](Screenshots/flappy_plane.png?raw=true)
+
+### Maze Escape
+
+![Maze Escape](Screenshots/mazegame.png?raw=true)
+
+![Maze Escape](Screenshots/mazegame_win.png?raw=true)
+
+### Tic Tac Toe
+
+![Tic Tac Toe](Screenshots/tictactoe.png?raw=true)
+
+![Tic Tac Toe](Screenshots/tictactoe_win.png?raw=true)
+
+### Match the Pairs
+
+![Match the Pairs](Screenshots/findthematch.png?raw=true)
+
+![Match the Pairs](Screenshots/findthematch_win.png?raw=true)
+
+### Connect 4
+![Connect 4](Screenshots/connect4.png?raw=true)
+![Connect 4](Screenshots/connect4_win.png?raw=true)
